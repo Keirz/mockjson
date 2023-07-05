@@ -1,10 +1,10 @@
 {
-[
+
 {"id":1,"cliente":{"id":1,"nome":"Hollyanne"},"proposta":{"id":1,"nome":"Marlite Panels (FED)"},"nome":"Florentia","atividade":{"id":1,"nome":"Testar "},"dataInicio":"18/08/2022","dataFim":"7/4/2023","dataAssinatura":"5/29/2023","arquivoBase64":null,"flagUnico":false,"flagRecorrrente":false,"flagAtivo":true,"valor":4731},
 {"id":2,"cliente":{"id":2,"nome":"Julieta"},"proposta":{"id":3,"nome":"Wall Protection"},"nome":"Callie","atividade":{"id":1,"nome":"Testar "},"dataInicio":"09/07/2022","dataFim":"11/9/2022","dataAssinatura":"7/12/2022","arquivoBase64":null,"flagUnico":false,"flagRecorrrente":true,"flagAtivo":false,"valor":2980},
 {"id":3,"cliente":{"id":3,"nome":"Kari"},"proposta":{"id":3,"nome":"Wall Protection"},"nome":"Adelaida","atividade":{"id":1,"nome":"Testar "},"dataInicio":"28/05/2023","dataFim":"2/21/2023","dataAssinatura":"8/10/2022","arquivoBase64":null,"flagUnico":true,"flagRecorrrente":false,"flagAtivo":true,"valor":2733},
 {"id":4,"cliente":{"id":4,"nome":"Jesselyn"},"proposta":{"id":2,"nome":"Electrical"},"nome":"Ramonda","atividade":{"id":1,"nome":"Testar "},"dataInicio":"14/05/2023","dataFim":"8/31/2022","dataAssinatura":"4/2/2023","arquivoBase64":null,"flagUnico":true,"flagRecorrrente":true,"flagAtivo":true,"valor":9519},
 {"id":5,"cliente":{"id":5,"nome":"Amelia"},"proposta":{"id":2,"nome":"Electrical"},"nome":"Dela","atividade":{"id":1,"nome":"Testar "},"dataInicio":"24/01/2023","dataFim":"4/21/2023","dataAssinatura":"8/7/2022","arquivoBase64":null,"flagUnico":false,"flagRecorrrente":false,"flagAtivo":true,"valor":1179},
 {"id":6,"cliente":{"id":1,"nome":"Hollyanne"},"proposta":{"id":1,"nome":"Marlite Panels (FED)"},"nome":"Liesa","atividade":{"id":1,"nome":"Testar "},"dataInicio":"31/01/2023","dataFim":"7/4/2023","dataAssinatura":"10/2/2022","arquivoBase64":null,"flagUnico":false,"flagRecorrrente":false,"flagAtivo":true,"valor":6357}
-]
+
 }
